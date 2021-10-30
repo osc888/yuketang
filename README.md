@@ -5,4 +5,4 @@
 
 https://github.com/heyblackC/yuketangHelper
 
-感谢@https://github.com/heyblackC
+感谢[heyblackC](https://github.com/heyblackC)
